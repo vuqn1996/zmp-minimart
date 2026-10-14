@@ -1,0 +1,28 @@
+{
+  "app": {
+    "title": "ZMP Minimart",
+    "headerTitle": "ZMP Minimart",
+    "headerColor": "#ef2c28",
+    "textColor": "white",
+    "leftButton": "none",
+    "statusBar": "transparent",
+    "actionBarHidden": true,
+    "hideAndroidBottomNavigationBar": true,
+    "hideIOSSafeAreaBottom": true
+  },
+  "debug": false,
+  "listCSS": [],
+  "listSyncJS": [],
+  "listAsyncJS": [],
+  "template": {
+    "name": "zmp-minimart",
+    "apiUrl": "",
+    "shopName": "ZMP Minimart",
+    "companyName": "CÔNG TY TNHH MINIMART MẪU",
+    "taxCode": "0123456789",
+    "companyAddress": "123 Đường Mẫu, Phường Sài Gòn, TP. Hồ Chí Minh, Việt Nam",
+    "hotline": "1900000000",
+    "email": "support@example.com",
+    "facebook": "https://www.facebook.com/"
+  }
+}

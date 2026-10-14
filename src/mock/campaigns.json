@@ -1,0 +1,3 @@
+[
+  { "id": "campaign-welcome", "title": "Ưu đãi chào bạn mới", "images": { "headerPath": "https://zalo-miniapp.github.io/zaui-market/dummy/banner/ads.jpg" }, "productIds": ["apples", "milk", "danisa"] }
+]

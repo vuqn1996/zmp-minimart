@@ -1,0 +1,4 @@
+[
+  { "id": "branch-1", "code": "Q1", "name": "Chi nhánh Quận 1", "address": "123 Đường Mẫu, Phường Sài Gòn, TP. Hồ Chí Minh", "fulfillmentMethods": ["DELIVERY", "PICKUP"] },
+  { "id": "branch-2", "code": "TD", "name": "Chi nhánh Thủ Đức", "address": "456 Đường Mẫu, Phường Thủ Đức, TP. Hồ Chí Minh", "fulfillmentMethods": ["PICKUP"] }
+]
